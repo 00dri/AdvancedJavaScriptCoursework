@@ -1,4 +1,4 @@
-JavaScript-Basics
+Advanced JavaScript Coursework
 =================
 
 SoftUni course homework
