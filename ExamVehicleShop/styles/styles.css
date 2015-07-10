@@ -1,0 +1,22 @@
+#categories li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+#categories li:hover {
+    cursor: pointer;
+    background-color: #B1FF95;
+}
+
+#vehicles > ul > li {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+}
+
+#vehicles > ul > li:hover {
+    background-color: #B1FF95;
+    cursor: pointer;
+}
